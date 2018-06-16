@@ -1,5 +1,5 @@
 # Papers
-**Improvement point of Neural MT**
+## Improvement point of Neural MT 
 
 1. Rare word problem 
       * Jean, S., Cho, K., Memisevic, R., & Bengio, Y. (2014). On using very large target vocabulary for neural machine translation. arXiv preprint arXiv:1412.2007.
@@ -21,4 +21,7 @@
      * Cohn, T., Hoang, C. D. V., Vymolova, E., Yao, K., Dyer, C., & Haffari, G. (2016). Incorporating structural alignment biases into an attentional neural translation model.
      arXiv preprint arXiv:1601.01085.
 9. Multimodal translations
-     *Hitschler, J., Schamoni, S., & Riezler, S. (2016). Multimodal pivots for image caption translation. arXiv preprint arXiv:1601.03916.
+     * Hitschler, J., Schamoni, S., & Riezler, S. (2016). Multimodal pivots for image caption translation. arXiv preprint arXiv:1601.03916.
+
+## NLP
+**Awesome NLP**: https://github.com/keon/awesome-nlp
