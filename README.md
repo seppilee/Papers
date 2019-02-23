@@ -1,8 +1,8 @@
 # Papers
-2/24/2019
+### 2/24/2019
 * Squeeze-and-Excitation Networks
 * http://aclweb.org/anthology/C18-1266
-2/23/2019 
+### 2/23/2019 
 * deepQuest: A Framework for Neural-based Quality Estimation, 2018, Sheffield
 * http://aclweb.org/anthology/C18-1266
 
