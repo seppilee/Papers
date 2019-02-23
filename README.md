@@ -1,8 +1,13 @@
 # Papers
-### 2/24/2019
-* Squeeze-and-Excitation Networks
+#### 2/24/2019
+* **Squeeze-and-Excitation Networks**
+* “Squeeze-and-Excitation” (SE) block, that adaptively recalibrates channel-wise feature responses by explicitly modelling interdependencies between channels
+* Squeeze: global distribution of channel responses
+* Excitation: gating mechanism to produce chanel-wise weights
+* Scale: reweighting feature maps
 * http://aclweb.org/anthology/C18-1266
-### 2/23/2019 
+* https://github.com/taki0112/SENet-Tensorflow
+#### 2/23/2019 
 * deepQuest: A Framework for Neural-based Quality Estimation, 2018, Sheffield
 * http://aclweb.org/anthology/C18-1266
 
