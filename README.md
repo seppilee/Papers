@@ -1,4 +1,10 @@
 # Papers
+
+#### 2/25/ 2019
+### Simple Recurrent Units for Highly Parallelizable Recurrence
+* https://arxiv.org/pdf/1709.02755.pdf
+* https://github.com/taolei87/sru
+
 #### 2/24/2019
 ### Squeeze-and-Excitation Networks
 * “Squeeze-and-Excitation” (SE) block, that adaptively recalibrates channel-wise feature responses by explicitly modelling interdependencies between channels
