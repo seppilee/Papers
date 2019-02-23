@@ -1,6 +1,6 @@
 # Papers
 #### 2/24/2019
-* **Squeeze-and-Excitation Networks**
+### Squeeze-and-Excitation Networks
 * “Squeeze-and-Excitation” (SE) block, that adaptively recalibrates channel-wise feature responses by explicitly modelling interdependencies between channels
 * Squeeze: global distribution of channel responses
 * Excitation: gating mechanism to produce chanel-wise weights
