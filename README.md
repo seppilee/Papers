@@ -1,11 +1,18 @@
 # Papers
+#### 26/2/2019
+### Mixed-Precision Training for NLP and Speech Recognition with OpenSeq2Seq
+* 1. Automatically scale loss to prevent gradients from underflow and overflow during backpropagation. The optimizer inspects gradients at each iteration and scales the loss for the next
+iteration to ensure that the values stay within the FP16 range.
+* 2. Maintain a FP32 copy of weights to accumulate the gradients after each optimizer step.
+* https://arxiv.org/pdf/1805.10387.pdf
+* https://github.com/NVIDIA/OpenSeq2Seq
 
-#### 2/25/ 2019
+#### 25/2/ 2019
 ### Simple Recurrent Units for Highly Parallelizable Recurrence
 * https://arxiv.org/pdf/1709.02755.pdf
 * https://github.com/taolei87/sru
 
-#### 2/24/2019
+#### 24/2/2019
 ### Squeeze-and-Excitation Networks
 * “Squeeze-and-Excitation” (SE) block, that adaptively recalibrates channel-wise feature responses by explicitly modelling interdependencies between channels
 * Squeeze: global distribution of channel responses
@@ -13,7 +20,7 @@
 * Scale: reweighting feature maps
 * http://aclweb.org/anthology/C18-1266
 * https://github.com/taki0112/SENet-Tensorflow
-#### 2/23/2019 
+#### 23/2/2019 
 * deepQuest: A Framework for Neural-based Quality Estimation, 2018, Sheffield
 * http://aclweb.org/anthology/C18-1266
 
