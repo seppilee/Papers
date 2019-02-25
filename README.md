@@ -1,4 +1,12 @@
 # Papers
+
+#### 27/2/2019
+### Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+* solve new learning tasks using only a small number of training samples
+* https://arxiv.org/pdf/1703.03400.pdf
+* https://github.com/cbfinn/maml
+
+
 #### 26/2/2019
 ### Mixed-Precision Training for NLP and Speech Recognition with OpenSeq2Seq
 * 1. Automatically scale loss to prevent gradients from underflow and overflow during backpropagation. The optimizer inspects gradients at each iteration and scales the loss for the next
