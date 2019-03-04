@@ -1,5 +1,13 @@
 # Papers
 
+
+#### 4/3/2019
+### LEARNING DEEP REPRESENTATIONS BY MUTUAL INFORMATION ESTIMATION AND MAXIMIZATION
+* https://arxiv.org/pdf/1808.06670.pdf
+* https://github.com/rdevon/DIM
+* unsupervised learning of representations by maximizing
+* mutual information between an input and the output of a deep neural network encoder(Deep InfoMax)
+
 #### 27/2/2019
 ### Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 * solve new learning tasks using only a small number of training samples
