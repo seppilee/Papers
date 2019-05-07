@@ -6,9 +6,9 @@
 
 #### 5/5/2019
 ### Domain Adaptation
-* ***A Survey of Domain Adaptation for Neural Machine Translation*** [PDF](https://www.aclweb.org/anthology/C18-1111)
+* **A Survey of Domain Adaptation for Neural Machine Translation** [[PDF]](https://www.aclweb.org/anthology/C18-1111)
 
-* ***Domain Adaptation forMultilingual Neural MachineTranslation*** [PDF](https://www.clubs-project.eu/assets/publications/other/MSc_thesis_AdamVarga.pdf)
+* **Domain Adaptation forMultilingual Neural MachineTranslation** [[PDF]](https://www.clubs-project.eu/assets/publications/other/MSc_thesis_AdamVarga.pdf)
 
 #### 4/3/2019
 ### LEARNING DEEP REPRESENTATIONS BY MUTUAL INFORMATION ESTIMATION AND MAXIMIZATION
