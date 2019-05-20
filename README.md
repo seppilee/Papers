@@ -1,29 +1,29 @@
 # Papers
 #### 13/5/2019 ICML 2019 accepted paper
-Better generalization with less data using robust gradient descent
-A Kernel Theory of Modern Data Augmentation
-Understanding the Origins of Bias in Word Embeddings
-Bridging Theory and Algorithm for Domain Adaptation
-Static Automatic Batching In TensorFlow
-Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation
-On The Power of Curriculum Learning in Training Deep Networks
-Learning and Data Selection in Big Datasets
-Self-Attention Generative Adversarial Networks
-Efficient Training of BERT by Progressively Stacking
-Towards Understanding Knowledge Distillation
-Zero-Shot Knowledge Distillation in Deep Networks
-Almost Unsupervised Text to Speech and Automatic Speech Recognition
-ELF OpenGo: an analysis and open reimplementation of AlphaZero
-Spectral Approximate Inference
-Self-Attention Graph Pooling
-Robust Inference via Generative Classifiers for Handling Noisy Labels
-Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance
-TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning
-FloWaveNet : A Generative Flow for Raw Audio
-BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning
-Parameter-Efficient Transfer Learning for NLP
-Optimal Mini-Batch and Step Sizes for SAGA
-The Evolved Transformer
+* **Better generalization with less data using robust gradient descent**
+* **A Kernel Theory of Modern Data Augmentation
+* **Understanding the Origins of Bias in Word Embeddings
+* **Bridging Theory and Algorithm for Domain Adaptation
+* **Static Automatic Batching In TensorFlow
+* **Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation
+* **On The Power of Curriculum Learning in Training Deep Networks
+* **Learning and Data Selection in Big Datasets
+* **Self-Attention Generative Adversarial Networks
+* **Efficient Training of BERT by Progressively Stacking
+* **Towards Understanding Knowledge Distillation
+* **Zero-Shot Knowledge Distillation in Deep Networks
+* **Almost Unsupervised Text to Speech and Automatic Speech Recognition
+* **ELF OpenGo: an analysis and open reimplementation of AlphaZero
+* **Spectral Approximate Inference
+* **Self-Attention Graph Pooling
+* **Robust Inference via Generative Classifiers for Handling Noisy Labels
+* **Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance
+* **TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning
+* **FloWaveNet : A Generative Flow for Raw Audio
+* **BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning
+* **Parameter-Efficient Transfer Learning for NLP
+* **Optimal Mini-Batch and Step Sizes for SAGA
+* **The Evolved Transformer
 
 
 #### 6/5/2019
