@@ -1,5 +1,8 @@
 # Papers
 #### 13/5/2019 ICML 2019 accepted paper
+* **Emma Strubell, Patrick Verga, Daniel Andor, David Weiss, and Andrew McCallum. Linguistically-Informed Self-Attention for Semantic Role Labeling. Conference on Empirical Methods in Natural Language Processing (EMNLP). Brussels, Belgium. October 2018.**
+
+#### 13/5/2019 ICML 2019 accepted paper
 * **Better generalization with less data using robust gradient descent**
 * **A Kernel Theory of Modern Data Augmentation**
 * **Understanding the Origins of Bias in Word Embeddings**
