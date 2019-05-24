@@ -1,6 +1,6 @@
 # Papers
 #### 24/5/2019 
-* **Parameter-Efficient Transfer Learning for NLP** [pdf](hhttps://arxiv.org/pdf/1902.00751.pdf)
+* **Parameter-Efficient Transfer Learning for NLP** [[pdf]](https://arxiv.org/pdf/1902.00751.pdf)
 
 #### 13/5/2019 ICML 2019 accepted paper
 * **Emma Strubell, Patrick Verga, Daniel Andor, David Weiss, and Andrew McCallum. Linguistically-Informed Self-Attention for Semantic Role Labeling. Conference on Empirical Methods in Natural Language Processing (EMNLP). Brussels, Belgium. October 2018.**
