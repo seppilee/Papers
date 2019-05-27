@@ -1,4 +1,7 @@
 # Papers
+#### 27/5/2019
+* **Towards a Deep and Unified Understanding of Deep Neural Models in NLP** [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/camera_paper_with_supp_2.pdf)
+
 #### 24/5/2019 
 * **Parameter-Efficient Transfer Learning for NLP** [[pdf]](https://arxiv.org/pdf/1902.00751.pdf)
 
