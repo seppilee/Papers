@@ -1,4 +1,8 @@
 # Papers
+
+#### 28/5/2019
+* **Self-Attention Generative Adversarial Networks** [[pdf]](https://arxiv.org/pdf/1805.08318.pdf)
+
 #### 27/5/2019
 * **Towards a Deep and Unified Understanding of Deep Neural Models in NLP** [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/camera_paper_with_supp_2.pdf)
 
