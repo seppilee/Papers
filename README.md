@@ -1,4 +1,6 @@
 # Papers
+### 1/6/2019
+* **BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task  Learning** [[pdf]](https://arxiv.org/pdf/1902.02671.pdf)
 
 #### 28/5/2019
 * **Self-Attention Generative Adversarial Networks** [[pdf]](https://arxiv.org/pdf/1805.08318.pdf)
