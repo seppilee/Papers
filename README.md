@@ -1,4 +1,8 @@
 # Papers
+
+### 1/6/2019
+* **Efficient Training of BERT by Progressively Stacking** [[pdf]](http://proceedings.mlr.press/v97/gong19a/gong19a.pdf)
+
 ### 1/6/2019
 * **BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task  Learning** [[pdf]](https://arxiv.org/pdf/1902.02671.pdf)
 
