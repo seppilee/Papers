@@ -1,6 +1,8 @@
 # Papers
 
-### 1/6/2019
+## 3/6/2019
+* **Efficient learning with robust gradient descent** [[pdf]](https://arxiv.org/pdf/1706.00182.pdf)
+### 2/6/2019
 * **Efficient Training of BERT by Progressively Stacking** [[pdf]](http://proceedings.mlr.press/v97/gong19a/gong19a.pdf)
 
 ### 1/6/2019
