@@ -1,5 +1,6 @@
 # Papers
-
+### 7/6/2019
+* **Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions** [[pdf]](https://arxiv.org/pdf/1901.01753.pdf)
 ### 6/6/2019
 * **The Evolved Transformer** [[pdf]](https://arxiv.org/pdf/1901.11117.pdf)
 ### 5/6/2019
