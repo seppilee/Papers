@@ -1,4 +1,7 @@
 # Papers
+### 9/6/2019
+* **Understanding the Origins of Bias in Word Embeddings** [[pdf]](https://arxiv.org/pdf/1810.03611.pdf)
+
 ### 7/6/2019
 * **Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions** [[pdf]](https://arxiv.org/pdf/1901.01753.pdf)
 ### 6/6/2019
