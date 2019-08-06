@@ -1,4 +1,8 @@
 # Papers
+
+
+### 6/8/2019
+* **Cross-lingual Language Model Pretraining** [[pdf]](https://arxiv.org/pdf/1901.07291.pdf)
 ### 9/6/2019
 * **Understanding the Origins of Bias in Word Embeddings** [[pdf]](https://arxiv.org/pdf/1810.03611.pdf)
 
