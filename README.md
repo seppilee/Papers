@@ -1,6 +1,7 @@
 # Papers
 
-
+### 7/8/2019
+* **Direct speech-to-speech translation with a sequence-to-sequence model** [[pdf]](https://arxiv.org/pdf/1904.06037.pdf)
 ### 6/8/2019
 * **Cross-lingual Language Model Pretraining** [[pdf]](https://arxiv.org/pdf/1901.07291.pdf)
 ### 9/6/2019
