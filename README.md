@@ -1,5 +1,6 @@
 # Papers
-
+### 13/8/2019
+* **How multilingual is Multilingual BERT?** [[pdf]](https://arxiv.org/pdf/1906.01502.pdf)
 ### 7/8/2019
 * **Direct speech-to-speech translation with a sequence-to-sequence model** [[pdf]](https://arxiv.org/pdf/1904.06037.pdf)
 ### 6/8/2019
