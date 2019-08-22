@@ -1,4 +1,6 @@
 # Papers
+### 2/8/2019
+* **Multilingual Neural Machine Translation with Knowledge Distillation** [[pdf]](https://arxiv.org/pdf/1902.10461.pdf)
 ### 13/8/2019
 * **How multilingual is Multilingual BERT?** [[pdf]](https://arxiv.org/pdf/1906.01502.pdf)
 ### 7/8/2019
