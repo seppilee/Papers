@@ -2,7 +2,7 @@
 ### 23/8/2019
 * **Multilingual Neural Machine Translation with Knowledge Distillation** [[pdf]](https://arxiv.org/pdf/1902.10461.pdf)
 ### 22/8/2019
-* **RoBERTa: A Robustly Optimized BERT Pretraining Approach** [[pdf]](https://arxiv.org/pdf/1907.11692.pdf)
+* **RoBERTa: A Robustly Optimized BERT Pretraining Approach** [[pdf]](https://arxiv.org/pdf/1907.11692.pdf) </br>
 -- **full-sentence w/o NSP, Dynamic masking, up to 32k mini-batches, 10x more data, large byte-level BPE** 
 ### 13/8/2019
 * **How multilingual is Multilingual BERT?** [[pdf]](https://arxiv.org/pdf/1906.01502.pdf)
