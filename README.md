@@ -1,4 +1,6 @@
 # Papers
+### 26/8/2019
+* **STACL: Simultaneous Translation with Implicit Anticipation andControllable Latency using Prefix-to-Prefix Framework** [[pdf]](https://arxiv.org/pdf/1810.08398.pdf)
 ### 23/8/2019
 * **Multilingual Neural Machine Translation with Knowledge Distillation** [[pdf]](https://arxiv.org/pdf/1902.10461.pdf)
 ### 22/8/2019
