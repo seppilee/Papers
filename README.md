@@ -1,4 +1,8 @@
 # Papers
+
+
+### 29/8/2019
+* **Adversarial Sub-sequence for Text Generation** [[pdf]](https://arxiv.org/pdf/1905.12835.pdf)
 ### 26/8/2019
 * **STACL: Simultaneous Translation with Implicit Anticipation andControllable Latency using Prefix-to-Prefix Framework** [[pdf]](https://arxiv.org/pdf/1810.08398.pdf)
 ### 23/8/2019
