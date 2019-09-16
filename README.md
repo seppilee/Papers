@@ -1,5 +1,10 @@
 # Papers
 
+### 16/9/2019
+* **Weight Agnostic Neural Networks** [[interactive page]](https://weightagnostic.github.io/)
+* **RWTH ASR System for LibriSpeech: Hybrid vs Attention** [[pdf]](https://arxiv.org/pdf/1905.03072.pdf)
+* **Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-trained Language Models** [[pdf]](https://arxiv.org/pdf/1906.07307.pdf)
+
 ### 3/9/2019
 * **Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination** [[pdf]](https://www.aclweb.org/anthology/D18-1041)
 ### 26/8/2019
