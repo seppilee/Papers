@@ -1,7 +1,7 @@
 # Papers
 
 ### 2/3/2021
-* **Zero-Shot Text-to-Image Generation[pdf](https://arxiv.org/pdf/2102.12092.pdf)
+* **Zero-Shot Text-to-Image Generation** [[pdf]](https://arxiv.org/pdf/2102.12092.pdf)
 ### 16/9/2019
 * **Weight Agnostic Neural Networks** [[interactive page]](https://weightagnostic.github.io/)
 * **RWTH ASR System for LibriSpeech: Hybrid vs Attention** [[pdf]](https://arxiv.org/pdf/1905.03072.pdf)
